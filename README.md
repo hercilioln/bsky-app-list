@@ -3,13 +3,13 @@
 
 - [From Hell to Blue](https://fromhellto.blue/) (Site para encontrar usuários do Twitter que migraram para o Bluesky, a lista não é completa com todos os usuários, então é preciso que o usário informe ao site que fez a migração)
 
-- [Skyline.gay](https://skyline.gay/) (Cliente Atproto com o objetivo de mostrar somente postagens do bem, com um algoritmo próprio para filtrar posts que ódio e afins)
+- [Skyline.gay](https://skyline.gay/) (Cliente Atproto com o objetivo de mostrar somente postagens do bem, com um algoritmo próprio para filtrar posts de ódio e afins)
 
-- [BlueSky Spaces](https://www.skyspaces.net/) (Cliente Atproto para interação por voz, semelhante ao Spaces do Twitter e Clubhouse)
+- [Bluesky Spaces](https://www.skyspaces.net/) (Cliente Atproto para interação por voz, semelhante ao Spaces do Twitter e Clubhouse)
 
-- [BleSky Hetmap](https://bluesky-heatmap.fly.dev/) (Cliente Atproto que gera um mapa de calor dos seus posts)
+- [Blesky Hetmap](https://bluesky-heatmap.fly.dev/) (Cliente Atproto que gera um mapa de calor dos seus posts)
 
-- [BlueSky Social Graph](https://bsky.jazco.dev/) (Ferramenta para listar suas interações com outros usuários)
+- [Bluesky Social Graph](https://bsky.jazco.dev/) (Ferramenta para listar suas interações com outros usuários)
 
 - [Skies Ahead](https://blue-skies-ahead.glitch.me/) (Ferramenta que mostra todos os posts em tempo real em uma tela que com cards flutuantes)
 
