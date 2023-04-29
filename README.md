@@ -11,7 +11,7 @@
 
 - [Bluesky Social Graph](https://bsky.jazco.dev/) (Ferramenta para listar suas interações com outros usuários)
 
-- [Skies Ahead](https://blue-skies-ahead.glitch.me/) (Ferramenta que mostra todos os posts em tempo real em uma tela que com cards flutuantes)
+- [Skies Ahead](https://blue-skies-ahead.glitch.me/) (Ferramenta que mostra todos os posts em tempo real em uma tela com cards flutuantes)
 
 - [Bsky Link](https://bsky.link/) (Ferramenta para criar links incorporáveis de posts do Bluesky)
 
@@ -19,7 +19,7 @@
 
 ### Bônus
 
-> Extensão que melhora a experiência no uso do bsky pelo navegador, com suporte para emojis, atalhos para alt + enter para enviar um post e outros. 
+> Extensão que melhora a experiência no uso do bsky pelo navegador, com suporte para emojis, atalhos para alt + enter no envio de um post e outros. 
 
 - [Chrome](https://chrome.google.com/webstore/detail/bluesky-overhaul/cllpkmbebfmadmkkpplnaaffnhjjpgbi)
 
