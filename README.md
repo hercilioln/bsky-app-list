@@ -15,6 +15,8 @@
 
 - [Bsky Link](https://bsky.link/) (Ferramenta para criar links incorporáveis de posts do Bluesky)
 
+- [Kite](https://callmearta.github.io/kite) (Cliente Atproto com uma interface amigável e diferente, ainda em fase beta.)
+
 ----
 
 ### Bônus
