@@ -21,13 +21,4 @@
 
 - [Bluesky Active Accounts](https://www.easyzoom.com/imageaccess/884cb1c001cd48e79aca92232bd24a04) (Dados de exploração da rede Bluesky, mapa com todas as contas ativas em Abril de 2023)
 
-----
-
-### Bônus
-
-> Extensão que melhora a experiência no uso do bsky pelo navegador, com suporte para emojis, atalhos para alt + enter no envio de um post e outros. 
-
-- [Chrome](https://chrome.google.com/webstore/detail/bluesky-overhaul/cllpkmbebfmadmkkpplnaaffnhjjpgbi)
-
-- [Mozilla](https://addons.mozilla.org/en-US/firefox/addon/bluesky-overhaul/)
-
+- [Bluesky Stats](https://bsky.jazco.dev/stats) (Status da rede bluesky, sobre o número de usuários, posts e muitos outros)
